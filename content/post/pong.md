@@ -2,8 +2,6 @@
 title: "Pong"
 description: A classic pong clone
 date: 2023-06-01T23:51:22+06:00
-image: 
-math: 
 license: MIT
 hidden: false
 comments: true
