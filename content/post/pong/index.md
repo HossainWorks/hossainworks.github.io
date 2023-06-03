@@ -8,6 +8,7 @@
     "comments": true,
     "draft": false,
     "image": "PongLogo.png",
+    "categories": ["game-update"],
     "links": [
         {
             "title": "GitHub",
