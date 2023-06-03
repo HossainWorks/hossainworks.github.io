@@ -13,7 +13,7 @@
         {
             "title": "GitHub",
             "description": "This Article is Based on this Repository",
-            "website": "https://github.com",
+            "website": "https://github.com/hossainworks/pong-dash",
             "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
         }
     ]
