@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Game Updates on Projects of HossainWorks</title><link>https://hossainworks.github.io/categories/game-update/</link><description>Recent content in Game Updates on Projects of HossainWorks</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 23:51:22 +0600</lastBuildDate><atom:link href="https://hossainworks.github.io/categories/game-update/index.xml" rel="self" type="application/rss+xml"/><item><title>Pong</title><link>https://hossainworks.github.io/p/pong/</link><pubDate>Thu, 01 Jun 2023 23:51:22 +0600</pubDate><guid>https://hossainworks.github.io/p/pong/</guid><description>&lt;img src="https://hossainworks.github.io/p/pong/PongLogo.png" alt="Featured image of post Pong" />&lt;p>Welcome to Pong, a duplicate of the classic Pong game! This is the first release of my Love2D game, and it contains many of the key features you&amp;rsquo;d expect in a Pong game, such as an opponent AI and a player pad that you can control with the W, S keys or the arrow keys.&lt;/p>
+&lt;p>&lt;img src="https://hossainworks.github.io/p/pong/Pong.png"
+width="1366"
+height="768"
+srcset="https://hossainworks.github.io/p/pong/Pong_huae033d1a5c2b3f909e89f57aea9b9639_6434_480x0_resize_box_3.png 480w, https://hossainworks.github.io/p/pong/Pong_huae033d1a5c2b3f909e89f57aea9b9639_6434_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Pong Screenshot"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;h2 id="installation-guide">Installation Guide&lt;/h2>
+&lt;p>This port of Pong has release for Windows and Linux. But you can still play it on MacOS. (See &lt;a class="link" href="#macos-107" >how&lt;/a>)&lt;/p>
+&lt;h3 id="windows-vasta-or-newer">Windows Vasta or Newer&lt;/h3>
+&lt;ul>
+&lt;li>Download &lt;a class="link" href="https://github.com/Kitcodail/Pong/releases/tag/1.0.0" target="_blank" rel="noopener"
+>pong-win32.zip&lt;/a>&lt;/li>
+&lt;li>Extract the zip and run Pong.exe&lt;/li>
+&lt;/ul>
+&lt;h3 id="linux">Linux&lt;/h3>
+&lt;ul>
+&lt;li>Download &lt;a class="link" href="https://github.com/Kitcodail/Pong/releases/tag/1.0.0" target="_blank" rel="noopener"
+>pong-x86_64.AppImage&lt;/a>&lt;/li>
+&lt;li>Run the downloaded &lt;a class="link" href="https://github.com/Kitcodail/Pong/releases/tag/1.0.0" target="_blank" rel="noopener"
+>pong-x86_64.AppImage&lt;/a>&amp;hellip; Almost all linux distrobutions support AppImages.&lt;/li>
+&lt;/ul>
+&lt;h3 id="macos-107">MacOS 10.7&lt;/h3>
+&lt;ul>
+&lt;li>Download and extract the &lt;a class="link" href="https://github.com/love2d/love/releases/download/11.4/love-11.4-macos.zip" target="_blank" rel="noopener"
+>love-11.4-macos.zip&lt;/a>&lt;/li>
+&lt;li>Navigate to the folder where &lt;a class="link" href="https://github.com/love2d/love/releases/download/11.4/love-11.4-macos.zip" target="_blank" rel="noopener"
+>love-11.4-macos.zip&lt;/a> is extracted&lt;/li>
+&lt;li>Download &lt;a class="link" href="https://github.com/Kitcodail/Pong/releases/tag/1.0.0" target="_blank" rel="noopener"
+>pong.love&lt;/a> and run it with the love executable&lt;/li>
+&lt;/ul>
+&lt;h2 id="acknowledgments">Acknowledgments&lt;/h2>
+&lt;p>Thanks to Love2D for providing a great game development framework, and to the community for their support and feedback.&lt;/p></description></item></channel></rss>
